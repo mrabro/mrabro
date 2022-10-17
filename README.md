@@ -112,6 +112,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrabro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+### Github Graph
+[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro)](https://github.com/mrabro)
+
+
+## Last Tweet
+[![Rafi Abro's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
 
 <br/>  
 
