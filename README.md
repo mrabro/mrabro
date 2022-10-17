@@ -79,6 +79,31 @@
 
 <br/>  
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrabro&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabro&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
+
+## Last Tweet
+[![Rafi Abro's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mrabro&style=for-the-badge&color=green" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -103,33 +128,6 @@
 <a href="https://stackoverflow.com/users/2698010/rafi-abro" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrabro&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabro&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-### Github Graph
-[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro)](https://github.com/mrabro)
-
-
-## Last Tweet
-[![Rafi Abro's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrabro&&style=flat-square" align="center" />
 </div>  
   
 
