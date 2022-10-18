@@ -154,3 +154,6 @@
             </a></div>
 <br />
 
+### 🙊 A little laughter for you
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+
