@@ -88,7 +88,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=mrabro&theme=radical&hide_border=true" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
 [![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
 
@@ -157,3 +157,5 @@
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
+
+![GitHub metrics](https://metrics.lecoq.io/mrabro)
