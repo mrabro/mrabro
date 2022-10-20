@@ -156,6 +156,3 @@
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
-
-
-![GitHub metrics](https://metrics.lecoq.io/mrabro)
