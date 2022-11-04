@@ -14,8 +14,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces ;)  
   
-
-<br/>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## My Skill Set  
@@ -92,6 +91,16 @@
 
 [![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
 
+
+<div>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mrabro&row=4&theme=onedark&no-frame=true"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+ 
 ## Last Tweet
 [![Rafi Abro's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
 
@@ -133,6 +142,11 @@
 
 <br/>  
 
+### 🙊 A little laughter for you
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+<br/> 
+<br/>  
 <div align="center">
             <a href="https://www.buymeacoffee.com/mrabro" target="_blank" style="display: inline-block;">
                 <img
@@ -153,6 +167,3 @@
                 />
             </a></div>
 <br />
-
-### 🙊 A little laughter for you
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
