@@ -85,7 +85,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=mrabro&theme=radical&hide_border=true" align="left" style="width: 100%" />
+<img src="https://streak-stats.demolab.com/?user=mrabro&theme=radical&border_radius=0&date_format=j%20M%5B%20Y%5D" align="left" style="width: 100%" />
 
 </td></tr></table>
 
